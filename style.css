@@ -1,0 +1,36 @@
+body {
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    margin: 0 auto;
+    font-family: 'Bebas Neue';
+    /* background-color: #e7f0e4; */
+}
+
+.FORM1{
+    margin-top: 4%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    border-radius: 20px;
+    padding: 10px;
+    border-style: solid;
+    border-color: gray;
+    box-shadow: 5px 10px #888888;
+    background-color: white;
+}
+.us_info{
+    margin-right: 5%;
+    margin-bottom: 2%;
+}
+
+.cd_info{
+    margin-top: 2%;
+}
+
+.adjust-select{
+    margin-top: 5.5%;
+}
+
+.nav-text{
+    font-size: 16px;
+}
+
